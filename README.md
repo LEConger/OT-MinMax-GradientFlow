@@ -2,7 +2,7 @@
 
 This repository contains code accompanying the paper:
 > Lauren Conger, Franca Hoffmann, Ricardo Baptista, Eric Mazumdar "Computing Optimal Transport Plans via Min-Max Gradient Flows"
-> arXiv id (update once on arXiv) 2025.
+> arXiv id 2504.16890 2025.
 
 ## Prerequisites
 
@@ -20,12 +20,12 @@ This project is licensed under the MIT License.
 
 ## Citation
 
-(Update once on arXiv) If you use this code in your research, please cite our paper:
+If you use this code in your research, please cite our paper:
   ```
-@article{conger2024_pde_sls,
-  title={Convex Constrained Controller Synthesis for Evolution Equations},
-  author={Conger, Lauren and Leeman, Antoine P. and Hoffmann Franca},
-  journal={arXiv preprint 2410.02658},
-  year={2024}
+@article{conger2025_minmaxOT,
+  title={Computing Optimal Transport Plans via Min-Max Gradient Flows},
+  author={Conger, Lauren and Hoffmann Franca and Baptista Ricardo and Mazumdar Eric},
+  journal={arXiv preprint 2504.16890},
+  year={2025}
 }
 ```
